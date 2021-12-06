@@ -1,1 +1,12 @@
 # ELEVATOR-SYSTEM
+# INTRODUCTION 
+Elevators are used in our day-to-day life, and every day we use elevators in many place and sometimes.An elevator or lift is a type of cable-assisted, hydraulic cylinder-assisted, or roller-track assisted machine that vertically transports people or freight between floors, levels, or decks of a building, vessel, or other structure. They are typically powered by electric motors that drive traction cables and counterweight systems such as a hoist, although some pump hydraulic fluid to raise a cylindrical piston like a jack.In agriculture and manufacturing, an elevator is any type of conveyor device used to lift materials in a continuous stream into bins. Some elevators can also travel horizontally in addition to the usual vertical motion.
+It is important to have a proper functioning, so that when there is a error or emergency stop in lift it can continue functioning again.we have added calling function to the lift so that its better to contact ouside lift during an emergency.A fully functional elevator system using LPC2148,LCD display which shows the info,a 7 segment display to display the floor level and keyboard matrix for operating the lift or to contact someone during an emergency.
+# DESCRIPTION 
+ We have done the basic structure of a elevator system that can be employed in houses, offices, etc with the help of the controller LPC 2148, keyboard matrix, an LCD, 5 seven segment displays.	 
+In this project we have made a fully functional elevator system using LPC2148,LCD display which shows the info,a 7 segment display to display the floor level and keyboard matrix for operating the lift or to contact someone during an emergency
+# IMPLEMENTATION DETAILS: 
+This project we have been implemented using with the help LPC 2148 controller and using martix keyboard we are going to take inputs for our elevator system.when a key is pressed it takes to the desired floor.for example, when key one is pressed it takes to floor one.the 7 segment display shows the floor which the lift has reached.in this project we have given an emergency alert after reaching 4th floor.so when the lift get stuck.the LCD displays an emergency and when the lift is running it shows operational,later we can use the keyboard matrix to call someone and the lift can br fixed and again can back up to be operational.
+# DEMO VIDEO DRIVE LINK: 
+https://drive.google.com/drive/folders/1-DU4-zU5D1g2pQjUA3rmuFGU2UcyYMWn
+
